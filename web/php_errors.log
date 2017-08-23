@@ -1,0 +1,40 @@
+[04-Aug-2017 17:16:22 Europe/Paris] PHP Warning:  require(/var/www/public/open-studio/public/open_studio/app/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/public/open-studio/public/open_studio/app/autoload.php on line 7
+[04-Aug-2017 17:16:22 Europe/Paris] PHP Stack trace:
+[04-Aug-2017 17:16:22 Europe/Paris] PHP   1. {main}() /var/www/public/open-studio/public/open_studio/web/app.php:0
+[04-Aug-2017 17:16:22 Europe/Paris] PHP   2. require() /var/www/public/open-studio/public/open_studio/web/app.php:6
+[04-Aug-2017 17:16:22 Europe/Paris] PHP Fatal error:  require(): Failed opening required '/var/www/public/open-studio/public/open_studio/app/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/public/open-studio/public/open_studio/app/autoload.php on line 7
+[04-Aug-2017 17:16:22 Europe/Paris] PHP Stack trace:
+[04-Aug-2017 17:16:22 Europe/Paris] PHP   1. {main}() /var/www/public/open-studio/public/open_studio/web/app.php:0
+[04-Aug-2017 17:16:22 Europe/Paris] PHP   2. require() /var/www/public/open-studio/public/open_studio/web/app.php:6
+[04-Aug-2017 17:16:48 Europe/Paris] PHP Warning:  require(/var/www/public/open-studio/public/open_studio/app/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/public/open-studio/public/open_studio/app/autoload.php on line 7
+[04-Aug-2017 17:16:48 Europe/Paris] PHP Stack trace:
+[04-Aug-2017 17:16:48 Europe/Paris] PHP   1. {main}() /var/www/public/open-studio/public/open_studio/web/app.php:0
+[04-Aug-2017 17:16:48 Europe/Paris] PHP   2. require() /var/www/public/open-studio/public/open_studio/web/app.php:6
+[04-Aug-2017 17:16:48 Europe/Paris] PHP Fatal error:  require(): Failed opening required '/var/www/public/open-studio/public/open_studio/app/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/public/open-studio/public/open_studio/app/autoload.php on line 7
+[04-Aug-2017 17:16:48 Europe/Paris] PHP Stack trace:
+[04-Aug-2017 17:16:48 Europe/Paris] PHP   1. {main}() /var/www/public/open-studio/public/open_studio/web/app.php:0
+[04-Aug-2017 17:16:48 Europe/Paris] PHP   2. require() /var/www/public/open-studio/public/open_studio/web/app.php:6
+[04-Aug-2017 17:16:49 Europe/Paris] PHP Warning:  require(/var/www/public/open-studio/public/open_studio/app/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/public/open-studio/public/open_studio/app/autoload.php on line 7
+[04-Aug-2017 17:16:49 Europe/Paris] PHP Stack trace:
+[04-Aug-2017 17:16:49 Europe/Paris] PHP   1. {main}() /var/www/public/open-studio/public/open_studio/web/app.php:0
+[04-Aug-2017 17:16:49 Europe/Paris] PHP   2. require() /var/www/public/open-studio/public/open_studio/web/app.php:6
+[04-Aug-2017 17:16:49 Europe/Paris] PHP Fatal error:  require(): Failed opening required '/var/www/public/open-studio/public/open_studio/app/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/public/open-studio/public/open_studio/app/autoload.php on line 7
+[04-Aug-2017 17:16:49 Europe/Paris] PHP Stack trace:
+[04-Aug-2017 17:16:49 Europe/Paris] PHP   1. {main}() /var/www/public/open-studio/public/open_studio/web/app.php:0
+[04-Aug-2017 17:16:49 Europe/Paris] PHP   2. require() /var/www/public/open-studio/public/open_studio/web/app.php:6
+[04-Aug-2017 17:18:53 Europe/Paris] PHP Warning:  require(/var/www/public/open-studio/public/open_studio/app/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/public/open-studio/public/open_studio/app/autoload.php on line 7
+[04-Aug-2017 17:18:53 Europe/Paris] PHP Stack trace:
+[04-Aug-2017 17:18:53 Europe/Paris] PHP   1. {main}() /var/www/public/open-studio/public/open_studio/web/app_dev.php:0
+[04-Aug-2017 17:18:53 Europe/Paris] PHP   2. require() /var/www/public/open-studio/public/open_studio/web/app_dev.php:23
+[04-Aug-2017 17:18:53 Europe/Paris] PHP Fatal error:  require(): Failed opening required '/var/www/public/open-studio/public/open_studio/app/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/public/open-studio/public/open_studio/app/autoload.php on line 7
+[04-Aug-2017 17:18:53 Europe/Paris] PHP Stack trace:
+[04-Aug-2017 17:18:53 Europe/Paris] PHP   1. {main}() /var/www/public/open-studio/public/open_studio/web/app_dev.php:0
+[04-Aug-2017 17:18:53 Europe/Paris] PHP   2. require() /var/www/public/open-studio/public/open_studio/web/app_dev.php:23
+[04-Aug-2017 17:18:56 Europe/Paris] PHP Warning:  require(/var/www/public/open-studio/public/open_studio/app/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/public/open-studio/public/open_studio/app/autoload.php on line 7
+[04-Aug-2017 17:18:56 Europe/Paris] PHP Stack trace:
+[04-Aug-2017 17:18:56 Europe/Paris] PHP   1. {main}() /var/www/public/open-studio/public/open_studio/web/app_dev.php:0
+[04-Aug-2017 17:18:56 Europe/Paris] PHP   2. require() /var/www/public/open-studio/public/open_studio/web/app_dev.php:23
+[04-Aug-2017 17:18:56 Europe/Paris] PHP Fatal error:  require(): Failed opening required '/var/www/public/open-studio/public/open_studio/app/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/public/open-studio/public/open_studio/app/autoload.php on line 7
+[04-Aug-2017 17:18:56 Europe/Paris] PHP Stack trace:
+[04-Aug-2017 17:18:56 Europe/Paris] PHP   1. {main}() /var/www/public/open-studio/public/open_studio/web/app_dev.php:0
+[04-Aug-2017 17:18:56 Europe/Paris] PHP   2. require() /var/www/public/open-studio/public/open_studio/web/app_dev.php:23
